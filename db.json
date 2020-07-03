@@ -1,11 +1,234 @@
 {
-  "posts": [
+  "videos":[
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "id": "media_33449",
+      "media": {
+        "type": "twitch",
+        "src": "alternate",
+        "duration": 36000,
+        "start": 0,
+        "preview_image": "https://pbs.twimg.com/media/ECeu2XmXkAAR30Q.png"
+      },
+      "timing": {
+        "editorial": "2019-08-21T16:38:43+02:00",
+        "published": {
+          "from": "2019-08-21T10:00:00+02:00",
+          "to": ""
+        },
+        "live": {
+          "from": "2019-08-21T10:00:00+02:00",
+          "to": "2019-08-21T20:00:00+02:00"
+        }
+      },
+      "content": {
+        "title": "Apex Legends Gaming Arena - Der gamescom-Stream von Alternate",
+        "description": "Auf der gamescom 2019 streamt Alternate Apex Legends für euch. Während  des Streams könnt ihr  Preise gewinnen.",
+        "language": "de-DE",
+        "rating": 0,
+        "button": {
+          "link": {
+            "text": "",
+            "url": "/die-messe/gamescom-now/video-detailseite-315.php"
+          }
+        }
+      },
+      "publisher": {
+        "name": "Alternate",
+        "link": {
+          "text": "Alternate Website",
+          "url": "https://www.alternate.de/Gamescom"
+        }
+      },
+      "brand": {
+        "name": "Alternate",
+        "link": ""
+      },
+      "tags": ["live", "studio"],
+      "production": "true_live"
+    },
+    {
+      "id": "media_32855",
+      "media": {
+        "type": "youtube",
+        "src": "NGf9dNi0W-E",
+        "duration": 146,
+        "start": 0,
+        "preview_image": "https://img.youtube.com/vi/NGf9dNi0W-E/maxresdefault.jpg"
+      },
+      "timing": {
+        "editorial": "2019-08-13T15:29:31+02:00",
+        "published": {
+          "from": "",
+          "to": ""
+        },
+        "live": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "content": {
+        "title": "The Surge 2 - Offizieller Gameplay-Trailer",
+        "description": "Wirf einen Blick auf die neuen Waffen, Umgebungen, Gegner, Bosse und Moves des kommenden Sequels, das die Gameplay-Formel im Vergleich zum ersten Teil noch einmal verbessert.",
+        "language": "de-DE",
+        "rating": 18,
+        "button": {
+          "link": {
+            "text": "",
+            "url": "/die-messe/gamescom-now/video-detailseite-144.php"
+          }
+        }
+      },
+      "publisher": {
+        "name": "Focus Home Interactive",
+        "link": {
+          "text": "The Surge 2 Website",
+          "url": "http://thesurge-game.com/de"
+        }
+      },
+      "brand": {
+        "name": "The Surge 2",
+        "link": ""
+      },
+      "tags": ["trailer", "action"],
+      "production": ""
+    },
+    {
+      "id": "media_32799",
+      "media": {
+        "type": "youtube",
+        "src": "m1vwWtzkI6g",
+        "duration": 156,
+        "start": 0,
+        "preview_image": "https://img.youtube.com/vi/m1vwWtzkI6g/maxresdefault.jpg"
+      },
+      "timing": {
+        "editorial": "2019-08-12T16:38:27+02:00",
+        "published": {
+          "from": "",
+          "to": ""
+        },
+        "live": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "content": {
+        "title": "DAEMON X MACHINA - Story Trailer",
+        "description": "Ein actiongeladenes Abenteuer erwartet euch in DAEMON X MACHINA, ab dem 13. September erhältlich für Nintendo Switch! Kämpft  mit einem vielfältigen Waffenarsenal eures  Mechs gegen korrupte Roboter und rettet die Welt.",
+        "language": "de-DE",
+        "rating": 12,
+        "button": {
+          "link": {
+            "text": "",
+            "url": "/die-messe/gamescom-now/video-detailseite-165.php"
+          }
+        }
+      },
+      "publisher": {
+        "name": "Nintendo",
+        "link": {
+          "text": "Nintendo Website",
+          "url": "https://www.nintendo.de/Spiele/Nintendo-Switch/DAEMON-X-MACHINA-1388304.html"
+        }
+      },
+      "brand": {
+        "name": "DAEMON X MACHINA",
+        "link": ""
+      },
+      "tags": ["trailer", "action"],
+      "production": ""
+    },
+    {
+      "id": "media_33089",
+      "media": {
+        "type": "youtube",
+        "src": "7jbjKq0rWAc",
+        "duration": 95,
+        "start": 0,
+        "preview_image": "https://img.youtube.com/vi/7jbjKq0rWAc/maxresdefault.jpg"
+      },
+      "timing": {
+        "editorial": "2019-08-16T16:57:19+02:00",
+        "published": {
+          "from": "",
+          "to": ""
+        },
+        "live": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "content": {
+        "title": "Trine 4 – Trailer: Bekanntgabe des Veröffentlichungsdatums",
+        "description": "Der  vierte Teil des Koop-Actionspiels Trine will das rundeste Trine-Erlebnis aller Zeiten werden. Erlebt Abenteuer, löst Rätsel und besiegt Feinde in einer bildhübschen 2.5D Optik. Trine 4 erscheint am 8. Oktober 2019.",
+        "language": "de-DE",
+        "rating": 0,
+        "button": {
+          "link": {
+            "text": "",
+            "url": "/die-messe/gamescom-now/video-detailseite-118.php"
+          }
+        }
+      },
+      "publisher": {
+        "name": "Modus Games",
+        "link": {
+          "text": "Trine 4: Website",
+          "url": "https://www.trine4.com/#header"
+        }
+      },
+      "brand": {
+        "name": "Trine 4: The Nightmare Prince",
+        "link": ""
+      },
+      "tags": ["trailer", "actionadventure"],
+      "production": ""
+    },
+    {
+      "id": "media_33321",
+      "media": {
+        "type": "youtube",
+        "src": "bYtfpL60js8",
+        "duration": 172,
+        "start": 0,
+        "preview_image": "https://img.youtube.com/vi/bYtfpL60js8/maxresdefault.jpg"
+      },
+      "timing": {
+        "editorial": "2019-08-20T17:21:47+02:00",
+        "published": {
+          "from": "",
+          "to": ""
+        },
+        "live": {
+          "from": "",
+          "to": ""
+        }
+      },
+      "content": {
+        "title": "Kerbal Space Program 2 - Ankündigungs-Trailer",
+        "description": "Kerbal Space Program 2 ist der Nachfolger der preisgekrönten Weltraumflug-Simulation Kerbal Space Program von Star Theory und Private Division. Erleben Sie die Zukunft der Weltraumerforschung: Neue Teile, schicke Grafik, Kolonien, interstellare Reisen, verbessertes Modding und Mehrspielermodus.",
+        "language": "de-DE",
+        "rating": 0,
+        "button": {
+          "link": {
+            "text": "",
+            "url": "/die-messe/gamescom-now/video-detailseite-247.php"
+          }
+        }
+      },
+      "publisher": {
+        "name": "Private Division",
+        "link": {
+          "text": "Kerbal Space Program 2 Website",
+          "url": "https://www.kerbalspaceprogram.com/game/kerbal-space-program-2/"
+        }
+      },
+      "brand": {
+        "name": "Kerbal Space Program 2",
+        "link": ""
+      },
+      "tags": ["simulation", "strategy", "trailer"],
+      "production": ""
+    } 
+  ]
 }
