@@ -7,7 +7,7 @@
         "src": "alternate",
         "duration": 36000,
         "start": 0,
-        "preview_image": "https://pbs.twimg.com/media/ECeu2XmXkAAR30Q.png"
+        "previewImage": "https://pbs.twimg.com/media/ECeu2XmXkAAR30Q.png"
       },
       "timing": {
         "editorial": "2019-08-21T16:38:43+02:00",
@@ -53,7 +53,7 @@
         "src": "NGf9dNi0W-E",
         "duration": 146,
         "start": 0,
-        "preview_image": "https://img.youtube.com/vi/NGf9dNi0W-E/maxresdefault.jpg"
+        "previewImage": "https://img.youtube.com/vi/NGf9dNi0W-E/maxresdefault.jpg"
       },
       "timing": {
         "editorial": "2019-08-13T15:29:31+02:00",
@@ -99,7 +99,7 @@
         "src": "m1vwWtzkI6g",
         "duration": 156,
         "start": 0,
-        "preview_image": "https://img.youtube.com/vi/m1vwWtzkI6g/maxresdefault.jpg"
+        "previewImage": "https://img.youtube.com/vi/m1vwWtzkI6g/maxresdefault.jpg"
       },
       "timing": {
         "editorial": "2019-08-12T16:38:27+02:00",
@@ -145,7 +145,7 @@
         "src": "7jbjKq0rWAc",
         "duration": 95,
         "start": 0,
-        "preview_image": "https://img.youtube.com/vi/7jbjKq0rWAc/maxresdefault.jpg"
+        "previewImage": "https://img.youtube.com/vi/7jbjKq0rWAc/maxresdefault.jpg"
       },
       "timing": {
         "editorial": "2019-08-16T16:57:19+02:00",
@@ -191,7 +191,7 @@
         "src": "669129886",
         "duration": 172,
         "start": 0,
-        "preview_image": "https://img.youtube.com/vi/bYtfpL60js8/maxresdefault.jpg"
+        "previewImage": "https://img.youtube.com/vi/bYtfpL60js8/maxresdefault.jpg"
       },
       "timing": {
         "editorial": "2019-08-20T17:21:47+02:00",
