@@ -6,7 +6,7 @@
         "type": "youtube",
         "src": "NGf9dNi0W-E",
         "duration": 146,
-        "start": 0,
+        "start": 5,
         "previewImage": "https://img.youtube.com/vi/NGf9dNi0W-E/maxresdefault.jpg"
       },
       "timing": {
@@ -100,7 +100,7 @@
         "type": "youtube",
         "src": "m1vwWtzkI6g",
         "duration": 156,
-        "start": 0,
+        "start": 5,
         "previewImage": "https://img.youtube.com/vi/m1vwWtzkI6g/maxresdefault.jpg"
       },
       "timing": {
@@ -145,8 +145,8 @@
       "id": "media_33089",
       "media": {
         "type": "image",
-        "src": "7jbjKq0rWAc",
-        "duration": 95,
+        "src": "https://img.youtube.com/vi/7jbjKq0rWAc/maxresdefault.jpg",
+        "duration": 0,
         "start": 0,
         "previewImage": "https://img.youtube.com/vi/7jbjKq0rWAc/maxresdefault.jpg"
       },
@@ -194,7 +194,7 @@
         "type": "twitch",
         "src": "669129886",
         "duration": 172,
-        "start": 0,
+        "start": 5,
         "previewImage": "https://img.youtube.com/vi/bYtfpL60js8/maxresdefault.jpg"
       },
       "timing": {
