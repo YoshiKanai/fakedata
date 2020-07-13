@@ -50,7 +50,7 @@
     {
       "id": "media_32799",
       "media": {
-        "type": "mp4",
+        "type": "html",
         "src": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
         "duration": 156,
         "start": 5,
