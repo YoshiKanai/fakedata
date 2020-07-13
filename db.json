@@ -50,11 +50,11 @@
     {
       "id": "media_32799",
       "media": {
-        "type": "youtube",
-        "src": "m1vwWtzkI6g",
+        "type": "mp4",
+        "src": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
         "duration": 156,
         "start": 5,
-        "previewImage": "https://img.youtube.com/vi/m1vwWtzkI6g/maxresdefault.jpg"
+        "previewImage": "http://commondatastorage.googleapis.com/gtv-videos-bucket/images/ElephantsDream.jpg"
       },
       "timing": {
         "editorial": "2019-08-12T16:38:27+02:00",
@@ -69,8 +69,8 @@
         }
       },
       "content": {
-        "title": "DAEMON X MACHINA - Story Trailer",
-        "description": "Ein actiongeladenes Abenteuer erwartet euch in DAEMON X MACHINA, ab dem 13. September erhältlich für Nintendo Switch! Kämpft  mit einem vielfältigen Waffenarsenal eures  Mechs gegen korrupte Roboter und rettet die Welt.",
+        "title": "Elephant Dream",
+        "description": "The first Blender Open Movie from 2006",
         "language": "de-DE",
         "rating": 12,
         "button": {
