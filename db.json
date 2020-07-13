@@ -52,9 +52,9 @@
       "media": {
         "type": "html",
         "src": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4",
-        "duration": 156,
-        "start": 5,
-        "previewImage": "http://commondatastorage.googleapis.com/gtv-videos-bucket/images/ElephantsDream.jpg"
+        "duration": 100,
+        "start": 0,
+        "previewImage": "http://commondatastorage.googleapis.com/images/ElephantsDream.jpg"
       },
       "timing": {
         "editorial": "2019-08-12T16:38:27+02:00",
